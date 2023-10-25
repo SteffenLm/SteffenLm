@@ -14,9 +14,7 @@ Jappuccini is a GitHub organization containing java learning content.
 It contains repositories for documentation, exercises, exams and is
 maintained by [appenmaier](https://github.com/appenmaier) and me.
 
-#### Repositories
-
-##### [java-docs](https://github.com/jappuccini/java-docs)
+#### [java-docs](https://github.com/jappuccini/java-docs)
 
 Contains the lecture documentation, slides, exercises.
 Highlights on this repository is the everything as code paradigm:
@@ -28,16 +26,16 @@ Highlights on this repository is the everything as code paradigm:
 - automatic [pull request checks](https://github.com/jappuccini/java-docs/blob/main/.github/workflows/pull_request.yml)
 - automatic [deployment](https://github.com/jappuccini/java-docs/blob/main/.github/workflows/docs_deploy.yml) to GitHub Pages
 
-##### [java-exercises](https://github.com/jappuccini/java-exercises)
+#### [java-exercises](https://github.com/jappuccini/java-exercises)
 
 Contains source code of all exercises from the java-docs repository.
 For each exercise an [exercise-branch](https://github.com/jappuccini/java-exercises/tree/exercises/stream-api/01), [solution-branch](https://github.com/jappuccini/java-exercises/tree/solutions/stream-api/01) and [pull request](https://github.com/jappuccini/java-exercises/pull/71/files?diff=split) is created.
 
-##### [java-exams](https://github.com/jappuccini/java-exams)
+#### [java-exams](https://github.com/jappuccini/java-exams)
 
 Contains all exams. This repo is private and only for lecturers.
 
-##### [github-organization](https://github.com/jappuccini/java-exams)
+#### [github-organization](https://github.com/jappuccini/java-exams)
 
 Contains the terraform files for the jappuccini github organization.
 Changes made to the main branch will automatically applied through terraform cloud.
