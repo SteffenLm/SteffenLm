@@ -96,190 +96,56 @@ It is used by my parents to calculate the needed data to build a transition from
 
 ### Frontend
 
-<div style="display: flex; flex-direction: row;">
-    <div style="display: flex; flex-direction: row; margin: 1rem;">
-        <img src="./img/angular.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Angular
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/ngrx.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          NgRx
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/html.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          HTML
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/css.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          CSS
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/typescript.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          TypeScript
-        </span>
-    </div>
-</div>
+<p align="left">
+  <img align="center" src="./img/angular.svg" title="Angular" height="30" /> Angular&nbsp;
+  <img align="center" src="./img/ngrx.svg" title="NgRx" height="30" /> NgRx&nbsp;
+  <img align="center" src="./img/html.svg" title="HTML" height="30" /> HTML&nbsp;
+  <img align="center" src="./img/css.svg" title="CSS" height="30" /> CSS&nbsp;
+  <img align="center" src="./img/typescript.svg" title="TypeScript" height="30" /> TypeScript&nbsp;
+</p>
 
 ### Backend
 
-<div style="display: flex; flex-direction: row;">
-    <div style="display: flex; flex-direction: row; margin: 1rem;">
-        <img src="./img/nodejs.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          NodeJS
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/nestjs.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          NestJS
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/jdk.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Java
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/spring.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Spring
-        </span>
-    </div>
-</div>
+<p align="left">
+  <img align="center" src="./img/nodejs.svg" title="NodeJS" height="30" /> NodeJS&nbsp;
+  <img align="center" src="./img/nestjs.svg" title="NestJS" height="30" /> NestJS&nbsp;
+  <img align="center" src="./img/jdk.svg" title="Java" height="30" /> Java&nbsp;
+  <img align="center" src="./img/spring.svg" title="Spring" height="30" /> Spring&nbsp;
+</p>
 
 ### Persistence
 
-<div style="display: flex; flex-direction: row;">
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/postgresql.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          PostgreSQL
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/mariadb.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          MariaDB
-        </span>
-    </div>
-</div>
+<p align="left">
+  <img align="center" src="./img/postgresql.svg" title="PostgreSQL" height="30" /> PostgreSQL&nbsp;
+  <img align="center" src="./img/mariadb.svg" title="MariaDB" height="30" /> MariaDB&nbsp;
+</p>
 
 ### Tooling
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap">
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/nx.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Nx
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/npm.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          NPM
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/docker.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Docker
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/github-actions.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Github Actions
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/jest.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Jest
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/jasmine.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Jasmine
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/neovim.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          NeoVim
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/vscode.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          VS Code
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/git.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Git
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/markdown.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Markdown
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/docusaurus.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Docusaurus
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/revealjs.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          RevealJS
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/mermaid.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Mermaid
-        </span>
-    </div>
-</div>
+<p align="left">
+  <img align="center" src="./img/nx.svg" title="Nx" height="30" /> Nx&nbsp;
+  <img align="center" src="./img/npm.svg" title="NPM" height="30" /> NPM&nbsp;
+  <img align="center" src="./img/docker.svg" title="Docker" height="30" /> Docker&nbsp;
+  <img align="center" src="./img/github-actions.svg" title="Github Actions" height="30" /> Github Actions&nbsp;
+  <img align="center" src="./img/jest.svg" title="Jest" height="30" /> Jest&nbsp;
+  <img align="center" src="./img/jasmine.svg" title="Jasmine" height="30" /> Jasmine&nbsp;
+  <img align="center" src="./img/neovim.svg" title="NeoVim" height="30" /> NeoVim&nbsp;
+  <img align="center" src="./img/vscode.svg" title="VS Code" height="30" /> VS Code&nbsp;
+  <img align="center" src="./img/git.svg" title="Git" height="30" /> Git&nbsp;
+  <img align="center" src="./img/markdown.svg" title="Markdown" height="30" /> Markdown&nbsp;
+  <br><br>
+  <img align="center" src="./img/docusaurus.svg" title="Docusaurus" height="30" /> Docusaurus&nbsp;
+  <img align="center" src="./img/revealjs.svg" title="RevealJS" height="30" /> RevealJS&nbsp;
+  <img align="center" src="./img/mermaid.svg" title="Mermaid" height="30" /> Mermaid&nbsp;
+</p>
 
 ### Operational
 
-<div style="display: flex; flex-direction: row;">
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/launch-darkly.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Launch Darkly
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/kubernetes.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Kubernetes
-        </span>
-    </div>
-    <div style="display: flex; flex-direction: row; margin: 1rem">
-        <img src="./img/terraform.svg" width="24"/>
-        <span style="margin-left: 1rem;";>
-          Terraform
-        </span>
-    </div>
-</div>
+<p align="left">
+  <img align="center" src="./img/launch-darkly.svg" title="Launch Darkly" height="30" /> Launch Darkly&nbsp;
+  <img align="center" src="./img/kubernetes.svg" title="Kubernetes" height="30" /> Kubernetes&nbsp;
+  <img align="center" src="./img/terraform.svg" title="Terraform" height="30" /> Terraform&nbsp;
+</p>
 
 ## Hobbies
 
@@ -292,26 +158,14 @@ It is used by my parents to calculate the needed data to build a transition from
 
 ## Let's stay in contact
 
-<div>
-  <a
-    href="https://www.linkedin.com/in/steffen-merk/"
-    target="blank"
-    style="margin: 0 0.5rem 0 0.5rem"
-  >
-    <img src="./img/linkedin.svg" width="24"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/steffen-merk/" target="blank">
+    <img align="center" src="./img/linkedin.svg" height="30" />
   </a>
-  <a
-    href="https://twitter.com/steffenlm"
-    target="blank"
-    style="margin: 0 0.5rem 0 0.5rem"
-  >
-    <img src="./img/twitter.svg" width="24"/>
+  <a href="https://twitter.com/steffenlm" target="blank">
+    <img align="center" src="./img/twitter.svg" height="30" />
   </a>
-  <a
-    href="https://stackoverflow.com/users/15597816/steffenlm"
-    target="blank"
-    style="margin: 0 0.5rem 0 0.5rem"
-  >
-    <img src="./img/stackoverflow.svg" width="24"/>
+  <a href="https://stackoverflow.com/users/15597816/steffenlm" target="blank">
+    <img align="center" src="./img/stackoverflow.svg" height="30" />
   </a>
-</div>
+</p>
