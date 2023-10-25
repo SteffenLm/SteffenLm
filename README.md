@@ -11,7 +11,7 @@
 ### [jappuccini](https://github.com/jappuccini)
 
 Jappuccini is a GitHub organization containing java learning content.
-It contains repositories for documentation, exercises and exams and is
+It contains repositories for documentation, exercises, exams and is
 maintained by [appenmaier](https://github.com/appenmaier) and me.
 
 #### Repositories
