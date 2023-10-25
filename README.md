@@ -10,7 +10,7 @@
 
 ### [jappuccini](https://github.com/jappuccini)
 
-Jappuccini is a GitHub organization containing java learning content.
+Jappuccini is a GitHub organization containing Java learning content.
 It contains repositories for documentation, exercises, exams and is
 maintained by [appenmaier](https://github.com/appenmaier) and me.
 
@@ -21,7 +21,7 @@ Highlights on this repository is the everything as code paradigm:
 
 - documents are created in [markdown](https://github.com/jappuccini/java-docs/blob/main/docs/additional-material/daniel-java1/cheatsheet.md?plain=1) and build with [docusaurus](https://jappuccini.github.io/java-docs/documentation/java-stream-api)
 - [exercises](https://jappuccini.github.io/java-docs/exercises/lambdas/lambdas01) can be opened with a single click on gitpod.io
-- [slides](https://jappuccini.github.io/java-docs/slides/steffen/lambda) are created in [html](https://github.com/jappuccini/java-docs/blob/main/src/pages/slides/steffen/lambda.js#L8-L389) with revealjs
+- [slides](https://jappuccini.github.io/java-docs/additional-material/steffen) are created in [html](https://github.com/jappuccini/java-docs/blob/main/src/pages/slides/steffen/lambda.js#L8-L389) with revealjs
 - [diagrams](https://jappuccini.github.io/java-docs/exercises/optionals/optionals01/#klassendiagramm) are created with [Mermaid](https://github.com/jappuccini/java-docs/blob/main/docs/exercises/optionals/optionals01.md?plain=1#L14-L37)
 - automatic [pull request checks](https://github.com/jappuccini/java-docs/blob/main/.github/workflows/pull_request.yml)
 - automatic [deployment](https://github.com/jappuccini/java-docs/blob/main/.github/workflows/docs_deploy.yml) to GitHub Pages
@@ -35,10 +35,10 @@ For each exercise an [exercise-branch](https://github.com/jappuccini/java-exerci
 
 Contains all exams. This repo is private and only for lecturers.
 
-#### [github-organization](https://github.com/jappuccini/java-exams)
+#### [github-organization](https://github.com/jappuccini/github-organization)
 
-Contains the terraform files for the jappuccini github organization.
-Changes made to the main branch will automatically applied through terraform cloud.
+Contains the Terraform files for the jappuccini GitHub organization.
+Changes made to the main branch are automatically applied through the Terraform cloud.
 
 ### [carbotracker](https://github.com/orgs/bemerkenswert/carbotracker)
 
@@ -47,20 +47,20 @@ et will have the same features but data, authentication and authorization is man
 
 ### [carbotracker-deprecated](https://github.com/SteffenLm/carbotracker-deprecated)
 
-Carbotracker-deprectaed is a fast and easy to use app for people with diabetes.
+carbotracker-deprecated is a fast and easy to use app for people with diabetes.
 There is no registration needed and data is kept on the device.
 You can manage your favorite products and calculate the current meal.
 
 ### [foodlist](https://github.com/SteffenLm/foodlist)
 
-foodlist is a full stack application for managing products, reciies and a shopping list.
+foodlist is a full stack application for managing products, recipies and a shopping list.
 It is built with Angular, NestJS, NX, PostgreSQL and TypeORM.
 
 ### [coronainfo](https://github.com/SteffenLm/CoronaInfo)
 
-coronainfo is a client application to view all current covid data in Germany.
-The data is fetched from the official Robert Koch Institute.
-Districts of interest can be marked as favorites for quick access to current data
+coronainfo is a client application that allows you to view all current Covid data in Germany.
+The data is obtained from the official Robert Koch Institute.
+Interesting districts can be marked as favorites to quickly access current data.
 
 ### [ebs](https://github.com/SteffenLm/ebs)
 
@@ -75,7 +75,7 @@ It enables to make complex queries over multiple years.
 ### [cego](https://github.com/SteffenLm/Cego)
 
 Cego is a card game that is widely played in the Black Forest.
-The cego count app is a client applicaton build with Angular.
+The cego count app is a client application build with Angular.
 With cego count the game rounds and points can be recorded.
 
 ### [InstaLearn](https://github.com/SteffenLm/InstaLearn)
@@ -83,7 +83,7 @@ With cego count the game rounds and points can be recorded.
 An education platform where multiple schools can manage classes, pupils, learning content and more.
 Main focus on interaction and collaborative data exchange.
 Implemented with two friends.
-It is private, but if you want to have a look at it feel free to ask!
+It's private, but if you want to take a look, feel free to ask!
 
 ### [Kanal](https://github.com/SteffenLm/Kanal)
 
