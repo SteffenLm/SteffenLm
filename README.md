@@ -131,7 +131,6 @@ It is used by my parents to calculate the needed data to build a transition from
   <img align="center" src="./img/vscode.svg" title="VS Code" height="30" /> VS Code&nbsp;
   <img align="center" src="./img/git.svg" title="Git" height="30" /> Git&nbsp;
   <img align="center" src="./img/markdown.svg" title="Markdown" height="30" /> Markdown&nbsp;
-  <br><br>
   <img align="center" src="./img/docusaurus.svg" title="Docusaurus" height="30" /> Docusaurus&nbsp;
   <img align="center" src="./img/revealjs.svg" title="RevealJS" height="30" /> RevealJS&nbsp;
   <img align="center" src="./img/mermaid.svg" title="Mermaid" height="30" /> Mermaid&nbsp;
