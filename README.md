@@ -40,10 +40,10 @@ Contains all exams. This repo is private and only for lecturers.
 Contains the Terraform files for the jappuccini GitHub organization.
 Changes made to the main branch are automatically applied through the Terraform cloud.
 
-### [carbotracker](https://github.com/orgs/bemerkenswert/carbotracker)
+### [carbotracker](https://github.com/bemerkenswert/carbotracker)
 
 Carbotracker is the evolution of carbotracker-deprecated.
-et will have the same features but data, authentication and authorization is managed by firebase.
+it will have the same features but data, authentication and authorization is managed by firebase.
 
 ### [carbotracker-deprecated](https://github.com/SteffenLm/carbotracker-deprecated)
 
