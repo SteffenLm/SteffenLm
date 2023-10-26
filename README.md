@@ -2,8 +2,8 @@
 
 - 🇩🇪 I live in Markdorf and work in Immenstaad
 - 👨🏽‍💻 I am into coding and code
-- 💻 I currently work [@Airbus Defence and Space](https://www.airbus.com/en) in Research and Development as Software Engineer
-- 👨🏽‍🏫 I currently teach [Programming with Java](https://github.com/jappuccini) [@Baden-Wuerttemberg Cooperative State University](https://www.dhbw.de/english/home)
+- 💻 I currently work at [Airbus Defence and Space](https://www.airbus.com/en) in Research and Development as Software Engineer
+- 👨🏽‍🏫 I currently teach [Programming with Java](https://github.com/jappuccini) at [Baden-Wuerttemberg Cooperative State University](https://www.dhbw.de/english/home)
 - 👨🏼‍🎓 I graduated 2020 from the [@Baden-Wuerttemberg Cooperative State University Ravensburg](https://www.ravensburg.dhbw.de/startseite) with a B.Sc. in Business Information Systems
 
 ## Projects
