@@ -10,9 +10,8 @@
 
 ### [jappuccini](https://github.com/jappuccini)
 
-Jappuccini is a GitHub organization containing Java learning content.
-It contains repositories for documentation, exercises, exams and is
-maintained by [appenmaier](https://github.com/appenmaier) and me.
+Jappuccini is a GitHub organization containing Java learning content for data science students of the Baden-Wuerttemberg Cooperative State University in Ravensburg.
+It contains repositories for documentation, exercises, exams and is maintained by [appenmaier](https://github.com/appenmaier) and me.
 
 #### [java-docs](https://github.com/jappuccini/java-docs)
 
