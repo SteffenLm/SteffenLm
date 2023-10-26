@@ -23,7 +23,7 @@ Highlights on this repository is the everything as code paradigm:
 - [slides](https://jappuccini.github.io/java-docs/additional-material/steffen) are created in [html](https://github.com/jappuccini/java-docs/blob/main/src/pages/slides/steffen/lambda.js#L8-L389) with revealjs
 - [diagrams](https://jappuccini.github.io/java-docs/exercises/optionals/optionals01/#klassendiagramm) are created with [Mermaid](https://github.com/jappuccini/java-docs/blob/main/docs/exercises/optionals/optionals01.md?plain=1#L14-L37)
 - automatic [pull request checks](https://github.com/jappuccini/java-docs/blob/main/.github/workflows/pull_request.yml)
-- automatic [deployment](https://github.com/jappuccini/java-docs/blob/main/.github/workflows/docs_deploy.yml) to GitHub Pages
+- automatic [deployment](https://github.com/jappuccini/java-docs/blob/main/.github/workflows/docs_deploy.yml) to [GitHub Pages](https://jappuccini.github.io/java-docs/)
 
 #### [java-exercises](https://github.com/jappuccini/java-exercises)
 
