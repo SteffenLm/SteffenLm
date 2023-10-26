@@ -18,7 +18,7 @@ It contains repositories for documentation, exercises, exams and is maintained b
 Contains the lecture documentation, slides and exercises.
 Highlights on this repository is the everything as code paradigm:
 
-- documents are created in [markdown](https://github.com/jappuccini/java-docs/blob/main/docs/additional-material/daniel-java1/cheatsheet.md?plain=1) and build with [docusaurus](https://jappuccini.github.io/java-docs/documentation/java-stream-api)
+- documents are created in [markdown](https://github.com/jappuccini/java-docs/blob/main/docs/documentation/java-stream-api.md?plain=1) and build with docusaurus to a [static webpage](https://jappuccini.github.io/java-docs/documentation/java-stream-api)
 - [exercises](https://jappuccini.github.io/java-docs/exercises/lambdas/lambdas01) can be opened with a single click on gitpod.io
 - [slides](https://jappuccini.github.io/java-docs/additional-material/steffen) are created in [html](https://github.com/jappuccini/java-docs/blob/main/src/pages/slides/steffen/lambda.js#L8-L389) with revealjs
 - [diagrams](https://jappuccini.github.io/java-docs/exercises/optionals/optionals01/#klassendiagramm) are created with [Mermaid](https://github.com/jappuccini/java-docs/blob/main/docs/exercises/optionals/optionals01.md?plain=1#L14-L37)
