@@ -15,7 +15,7 @@ It contains repositories for documentation, exercises, exams and is maintained b
 
 #### [java-docs](https://github.com/jappuccini/java-docs)
 
-Contains the lecture documentation, slides, exercises.
+Contains the lecture documentation, slides and exercises.
 Highlights on this repository is the everything as code paradigm:
 
 - documents are created in [markdown](https://github.com/jappuccini/java-docs/blob/main/docs/additional-material/daniel-java1/cheatsheet.md?plain=1) and build with [docusaurus](https://jappuccini.github.io/java-docs/documentation/java-stream-api)
