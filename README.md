@@ -42,52 +42,49 @@ Changes made to the main branch are automatically applied through the Terraform 
 ### [carbotracker](https://github.com/bemerkenswert/carbotracker)
 
 Carbotracker is the evolution of carbotracker-deprecated.
-it will have the same features but data, authentication and authorization is managed by firebase.
+It will have the same features, but data, authentication, and authorization will be managed by Firebase.
 
 ### [carbotracker-deprecated](https://github.com/SteffenLm/carbotracker-deprecated)
 
-carbotracker-deprecated is a fast and easy to use app for people with diabetes.
-There is no registration needed and data is kept on the device.
-You can manage your favorite products and calculate the current meal.
+Carbotracker-deprecated is a fast and user-friendly app designed for individuals with diabetes.
+There is no registration required, and all data is stored on the device.
+You can easily manage your favorite products and calculate your current meal.
 
 ### [foodlist](https://github.com/SteffenLm/foodlist)
 
-foodlist is a full stack application for managing products, recipies and a shopping list.
-It is built with Angular, NestJS, NX, PostgreSQL and TypeORM.
+Foodlist is a full-stack application for managing products, recipes, and a shopping list.
+It is built using Angular, NestJS, NX, PostgreSQL, and TypeORM.
 
 ### [coronainfo](https://github.com/SteffenLm/CoronaInfo)
 
-coronainfo is a client application that allows you to view all current Covid data in Germany.
-The data is obtained from the official Robert Koch Institute.
-Interesting districts can be marked as favorites to quickly access current data.
+Coronainfo is a client application that provides up-to-date Covid data for Germany, sourced from the official Robert Koch Institute.
+You can mark interesting districts as favorites for quick access to current data.
 
 ### [ebs](https://github.com/SteffenLm/ebs)
 
 One of the responsibilities of the European Banking Authority (EBA) is to ensure the orderly functioning and integrity of financial markets and the stability of the financial system in the EU.
-The EBA releases the results of the stress tests on a yearly base in CSV files.
-Queries between two or multiple years are not possible with this data set.
+The EBA releases annual stress test results in CSV files. However, it's important to note that this data set does not support queries between two or multiple years.
 
-The ebs (european back system) was a student project.
-It is a python library to import the stress test data of european banks into a harmonized database schema.
-It enables to make complex queries over multiple years.
+On the other hand, the 'ebs' (European Back System) was initially a student project.
+It is a Python library designed to import stress test data from European banks into a harmonized database schema.
+This library empowers users to perform complex queries spanning multiple years.
 
 ### [cego](https://github.com/SteffenLm/Cego)
 
-Cego is a card game that is widely played in the Black Forest.
-The cego count app is a client application build with Angular.
-With cego count the game rounds and points can be recorded.
+Cego is a popular card game commonly played in the Black Forest.
+The 'Cego Count' app is a client application built with Angular, designed for recording game rounds and points in Cego.
 
 ### [InstaLearn](https://github.com/SteffenLm/InstaLearn)
 
-An education platform where multiple schools can manage classes, pupils, learning content and more.
-Main focus on interaction and collaborative data exchange.
-Implemented with two friends.
-It's private, but if you want to take a look, feel free to ask!
+Our education platform allows multiple schools to efficiently manage classes, students, learning content, and more.
+Our main focus is on promoting interaction and facilitating collaborative data exchange.
+This project was implemented with the help of two friends.
+While it's currently private, if you're interested in taking a look, feel free to ask!
 
 ### [Kanal](https://github.com/SteffenLm/Kanal)
 
-A client application available as Java and Angular version.
-It is used by my parents to calculate the needed data to build a transition from a channel to a pipe.
+This client application is available in both Java and Angular versions.
+It's primarily used by my parents to calculate the necessary data for transitioning from a channel to a pipe.
 
 ## Skills
 
