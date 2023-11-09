@@ -1,4 +1,4 @@
-# Hi, I am Steffen 🧔🏼‍♂️
+# Hi, I am Steffen,
 
 - 🇩🇪 I live in Markdorf and work in Immenstaad
 - 👨🏽‍💻 I am into coding and code
